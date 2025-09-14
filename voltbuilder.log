@@ -1,0 +1,4 @@
+2025-09-14 03:03:02,544 - #1 SMP PREEMPT_DYNAMIC Debian 6.1.115-1 (2024-11-01)
+2025-09-14 03:03:02,586 - app.framework: cordova
+2025-09-14 03:03:02,586 - index.html found, but not in www folder.
+2025-09-14 03:03:02,586 - Moving /voltbuilder.log into www
